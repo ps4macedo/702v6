@@ -36,7 +36,6 @@ int64.js
 jb_c-code.js
 kernelClock.js
 kernelDumper.js
-linux.js
 Linux1.js
 linux2.js
 Linux3.js
@@ -44,7 +43,6 @@ mira.js
 mira_c-code.js
 mira+.js
 mira2.js
-miraMais.js
 miraTeste.js
 payload.html
 ps4.js
